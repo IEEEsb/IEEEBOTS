@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KPKTZPWS
+DocumentUniqueId=YMWTYERQ
 
 [Document3]
 DocumentPath=[02] - BLOCK DIAGRAM.SchDoc
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NXUJOJNS
+DocumentUniqueId=VHUEXIXV
 
 [Document4]
 DocumentPath=[03] - POWER.SchDoc
@@ -123,6 +123,23 @@ GenerateClassCluster=0
 DocumentUniqueId=MXKTPHHD
 
 [Document6]
+DocumentPath=[05] - PROGRAMMER.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BSTIPICM
+
+[Document7]
 DocumentPath=[XX] - DOC REVISION HISTORY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,9 +154,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NCFWSSWI
+DocumentUniqueId=ZXZERNWM
 
-[Document7]
+[Document8]
 DocumentPath=IEEEBOT_PCB_V1I1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=IEEEBOT_SCHLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MMGPUFAL
 
-[Document9]
+[Document10]
 DocumentPath=IEEEBOT_KK_SCHLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LNSRRQMS
 
-[Document10]
+[Document11]
 DocumentPath=IEEEBOT_PCBLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
